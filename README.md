@@ -19,7 +19,7 @@ About the Database:
 
 About the sql files in repository:
 
-	1. Getting to know about the database and tables
+	1. About-DatabaseAndTables.sql - Getting to know about the database and tables
 	2. Basic data exploration on employess and vendor levels
 	
 	[Will continue adding new analysis]
