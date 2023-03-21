@@ -10,7 +10,8 @@ Data has been analyzed and presented at all levels including empolyes, vendors, 
 
 About the Database:
 
-Markup: * Adventureworks2019 databse is consist of 6 Schemas and 71 tables.
+	
+	* Adventureworks2019 databse is consist of 6 Schemas and 71 tables.
 	* 20+ Views and stored procedures and triggers.
 	* 486 columns 
 	* 152 default constraints 
