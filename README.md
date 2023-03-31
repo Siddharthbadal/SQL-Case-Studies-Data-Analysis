@@ -16,5 +16,6 @@ SQL files in this repository:
 	3. DatExploration-Part2.sql - Explorating transcations data and sale-purchases dates 
 	4. DataExploration-Part4.sql - Exploring SubTotal, LineTotal and ToatlDue from SalesOrderHeader/Detail
 	4. RetailCustomersPercentages.sql - Country wise analysis of retail customers with a pie chart
+	5. SalesByAgeGroupForEachCountry.sql - Each country sales by customers age groups
 	
 	
