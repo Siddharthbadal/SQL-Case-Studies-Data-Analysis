@@ -21,5 +21,6 @@ About the sql files in repository:
 	1. About-DatabaseAndTables.sql - Getting to know about the database and tables
 	2. DataExploration-Part1.sql - Data exploration on employess vendor, Products table
 	3. DatExploration-Part2.sql - Explorating transcations data and sale-purchases dates 
+	4. RetailCustomersPercentages.sql - Country wise analysis of retail customers with a pie chart
 	
 	[further file details will be added here]
