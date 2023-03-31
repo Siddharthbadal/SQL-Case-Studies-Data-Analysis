@@ -4,6 +4,8 @@ Complete case study on adventureworks2019 database. Writing complex SQL queries 
 
 This project includes over 50+ queries answering almost all possible data points about a business case study.   
 
+Data Visualization with excel for each case studies.
+
 Data has been analyzed and presented at all levels including empolyes, vendors, sales, purchases, transcations, productions, persons and human resources. 
 In the data exploration parts, queries are written to understand the data. Numbers, cateogry. Data has been put in segmentation to understand the the depper lavels.
 
