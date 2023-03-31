@@ -42,30 +42,3 @@ linetotal is Per product subtotal.
 LineTotal calculations:  UnitPrice * (1 - UnitPriceDiscount) * OrderQty. (Third Query Above)
 */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
--- check for column name and definition of any table in database 
-select 
-		t.name as TableName,
-		c.name as ColumnName,
-		ep.value as Definition
-	from 
-		sys.extended_properties ep 
-		inner join sys.tables t 
-			on t.object_id = ep.major_id 
-		inner join sys.columns c 
-			on c.object_id = ep.major_id 
-			and c.column_id = ep.minor_id 
-	where class = 1
-		and t.name = 'Product'
