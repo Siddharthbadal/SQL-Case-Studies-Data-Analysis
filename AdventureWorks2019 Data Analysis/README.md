@@ -6,4 +6,7 @@
 ![img](https://raw.githubusercontent.com/Siddharthbadal/Data-Analysis-AdventureWorks2019/main/AdventureWorks2019%20Data%20Analysis/Charts/SalesByAgeGroupForCountry.png)
 
 
+![img](https://raw.githubusercontent.com/Siddharthbadal/Data-Analysis-AdventureWorks2019/main/AdventureWorks2019%20Data%20Analysis/Charts/BikeSalesPercentage.png)
+
+
 
