@@ -24,5 +24,6 @@ Case Studies:
 	1. RetailCustomersPercentages.sql - Country wise analysis of retail customers with a pie chart
 	2. SalesByAgeGroupForEachCountry.sql - Each country sales by customers age groups
 	3. BikesSalesPercentage.sql - Monthly bikes sales Percentage in 2012
+	4. SalesAnalysisByRegion - Finding sales figues by region and top 25 customers in each region
 	
 	
