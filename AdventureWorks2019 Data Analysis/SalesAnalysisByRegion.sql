@@ -85,7 +85,7 @@ select *
 				
 			) as salesByRegion_Cust
 		where RowNumber <= 25
-		
+		and RegionName ='Canada'
 
 
 -- average of other customers by region [not top 25]
@@ -111,7 +111,7 @@ select RegionName, format(avg(totaldue), 'C0') as AvgTotalDue
 		order by RegionName
 
 -- average of top 25 customers
-select RegionName, format(avg(totaldue), 'C0') as AvgTotalDue
+select RegionName, format(avg(totaldue), 'C0') as AvgTotalDue, format(sum(totaldue), 'C0') as SumTotalDue
 	from(
 			select  st.Name as RegionName,
 					concat(firstName, ' ', lastName) as customer,
