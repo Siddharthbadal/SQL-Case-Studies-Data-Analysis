@@ -10,7 +10,6 @@ Data has been analyzed and presented at all levels including empolyes, vendors, 
 In the data exploration parts, queries are written to understand the data. Numbers, cateogry. Data has been put in segmentation to understand the the depper lavels.
 
 
-
 SQL files in this repository:
 
 	1. About-DatabaseAndTables.sql - Getting to know about the database and tables
