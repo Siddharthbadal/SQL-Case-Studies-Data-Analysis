@@ -15,5 +15,6 @@ Analysis a large dataset of a manufacturing firm with over 70 tables. Performed 
 	-	SalesAnalysisByRegion - Finding sales figues by region and top 25 customers in each region
 	
 2. Shop Data - Answering multiple questions about a shpo online data. 
+3. RetailDB - Analyzinf data of a online buy sell company that has multiple tables.
 	
 	
