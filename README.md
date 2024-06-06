@@ -5,7 +5,7 @@ Complete case studies on different database. Writing complex SQL queries using  
 
 Case Studies:
 
-1. Manufacturing Firm Data Analysis
+1. Sales Data Analysis
 
 Analysis a large dataset of a manufacturing firm with over 70 tables. Performed analysis on at multiple lavel. 
 
@@ -15,6 +15,8 @@ Analysis a large dataset of a manufacturing firm with over 70 tables. Performed 
 	-	SalesAnalysisByRegion - Finding sales figues by region and top 25 customers in each region
 	
 2. Shop Data - Answering multiple questions about a shpo online data. 
-3. RetailDB - Analyzinf data of a online buy sell company that has multiple tables.
+3. RetailDB - Analyzing data of a online buy sell company that has multiple tables.
+4. Movies -  Data analysis of movies data with over 15 tables.
+
 	
 	
