@@ -185,6 +185,22 @@ select *, sellingprice / avg_model_price as price_ratio
     where sellingprice > avg_model_price
     order by sellingprice / avg_model_price desc;
 
-
+-- ordering models on average selling price 
+select	
+	make,
+    count(distinct model) as num_models,
+    count(*) as num_sales,
+    min(sellingprice) as Min_sellingPrice,
+    max(sellingprice) as Max_sellingPrice,
+    avg(sellingprice) as Avg_sellingPrice
+	from car_prices
+    where make != ''
+    group by make
+    order by Avg_sellingPrice desc;
         
+        
+
+
+
+
         
