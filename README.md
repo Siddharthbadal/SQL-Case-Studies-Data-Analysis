@@ -17,6 +17,7 @@ Analysis a large dataset of a manufacturing firm with over 70 tables. Performed 
 2. Shop Data - Answering multiple questions about a shpo online data. 
 3. RetailDB - Analyzing data of a online buy sell company that has multiple tables.
 4. Movies -  Data analysis of movies data with over 15 tables.
+5. CarSales - Car Sales data analysis by multiple sales ratio.
 
 	
 	
